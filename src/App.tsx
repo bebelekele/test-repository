@@ -7,7 +7,6 @@ function App() {
       <CarouselContent>
         <CarouselItem>SIphone 14</CarouselItem>
         <CarouselItem>SIphone 15</CarouselItem>
-        <CarouselItem>SIphone 16</CarouselItem>
       </CarouselContent>
       <CarouselPrevious />
       <CarouselNext />
